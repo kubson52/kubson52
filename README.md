@@ -16,9 +16,7 @@ SCSS✅
 <br>
 JS🔍
 <br>
-TYPESCRIPT❌
-<br>
-REACT❌
+**Still going👀**
 
 ## 🎇Contact
 
