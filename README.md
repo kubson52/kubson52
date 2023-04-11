@@ -6,10 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm just a human :)
 
----
-
-My goal is to become a Junior Frontend Developer💼.
+## My goal is to become a Junior Frontend Developer💼.
 My current progress:
+<br>
 HTML✅
 <br>
 CSS✅
@@ -22,9 +21,7 @@ TYPESCRIPT❌
 <br>
 REACT❌
 
----
-
-🎇Contact
+## 🎇Contact
 <br>
 # Discord🏹: Kubson#4669
 <br>
