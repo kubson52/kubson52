@@ -10,7 +10,8 @@
 
 My goal is to become a Junior Frontend Developer💼.
 My current progress:
-HTML✅ -> CSS✅ -> SCSS✅ -> JS🔍 -> TYPESCRIPT❌ -> REACT❌
+HTML✅ -> CSS✅ -> SCSS✅ -> JS🔍
+-> TYPESCRIPT❌ -> REACT❌
 
 ---
 
