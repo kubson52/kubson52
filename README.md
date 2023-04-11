@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm just a human :)
 
 ## My goal is to become a Junior Frontend Developer💼.
-My current progress:
+**My current progress:**
 <br>
 HTML✅
 <br>
