@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on SCSS
 - 🌱 I’m currently learning JS
@@ -24,8 +24,8 @@ REACT❌
 
 ---
 
-**🎇Contact**
+## 🎇Contact
 <br>
-Discord🏹: Kubson#4669
+# Discord🏹: Kubson#4669
 <br>
-Mail📩: urbanskikontakt52@gmail.com
+# Mail📩: urbanskikontakt52@gmail.com
