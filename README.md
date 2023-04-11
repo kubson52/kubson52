@@ -23,6 +23,6 @@ REACT❌
 
 ## 🎇Contact
 <br>
-# Discord🏹: Kubson#4669
+#  Discord🏹: Kubson#4669
 <br>
-# Mail📩: urbanskikontakt52@gmail.com
+#  Mail📩: urbanskikontakt52@gmail.com
