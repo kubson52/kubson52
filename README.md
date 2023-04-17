@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on SCSS
 - 🌱 I’m currently learning JS
-- 📫 How to reach me: urbanskikontakt52@gmail.com
 - ⚡ Fun fact: I'm just a human :)
 
 ## My goal is to become a Junior Frontend Developer💼.
