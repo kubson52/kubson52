@@ -19,6 +19,6 @@ JS🔍
 
 ## 🎇Contact
 
-**Discord🏹: Kubson#4669**
+**Discord🏹: Kubson#8569**
 <br>
 **Mail📩: urbanskikontakt52@gmail.com**
