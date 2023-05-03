@@ -8,10 +8,10 @@
 * ⚡ Fun fact: I'm just a human :)
 
 ## My Stack💼
-<span><strong>HTML</strong></span><br>
+<span><strong>HTML</strong></span>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             
-<span><strong>CSS</strong></span><br>
+<span><strong>CSS</strong></span>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ## MY STATS
