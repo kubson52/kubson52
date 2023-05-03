@@ -1,21 +1,12 @@
 # Hi there 👋
+My name is Kuba and web developping is my huge passion.
+<br>
+I started in march 2023 and I'm really determinded to
+<br>
+achieve my goal -> learn react and Next.js
 
-- 🔭 I’m currently working on SCSS
-- 🌱 I’m currently learning JS
-- ⚡ Fun fact: I'm just a human :)
+## My Stack💼
 
-## My goal is to become a Junior Frontend Developer💼.
-**My current progress:**
-<br>
-HTML✅
-<br>
-CSS✅
-<br>
-SCSS✅
-<br>
-JS🔍
-<br>
-**Still going👀**
 
 ## 🎇Contact
 
