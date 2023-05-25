@@ -1,8 +1,8 @@
 # Hi there 👋
 * 👂 My name is Kuba
 * 👩 Pronouns: He/Him
-* 🔭 I’m currently working on SCSS
-* 🌱 I’m currently learning JS
+* 🔭 I’m currently working on React
+* 🌱 I’m currently learning React + Typescript
 * 💬 Ask me about ... weather ;pp
 * ❤️ I love gym🏋️‍♂️
 * ⚡ Fun fact: I'm just a human :)
