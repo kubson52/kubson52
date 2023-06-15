@@ -1,6 +1,5 @@
 # Hi there 👋
 * 👂 My name is Kuba
-* 👩 Pronouns: He/Him
 * 🔭 I’m currently working on Javascript
 * 🤖 I'm currently learning React + Typescript
 * 💬 Ask me about ... weather ;pp
