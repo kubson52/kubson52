@@ -13,6 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kubson52&show_icons=true&theme=dark"/>
 
 ## 🎇Contact
-**Discord🏹: Kubson#8569**
+**Discord🏹: Kubson#8569/@kubsonnnnn**
 <br>
 **Mail📩: urbanskikontakt52@gmail.com**
