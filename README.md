@@ -8,7 +8,7 @@
 * ⚡ Fun fact: I'm just a human :)
 
 ## My Stack💼
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react)](https://skills.thijs.gg)
 
 ## MY STATS🤖
 <img src="https://github-readme-stats.vercel.app/api?username=kubson52&show_icons=true&theme=dark"/>
