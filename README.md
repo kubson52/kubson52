@@ -2,7 +2,7 @@
 * 👂 My name is Kuba
 * 👩 Pronouns: He/Him
 * 🔭 I’m currently working on Javascript
-* 🤖 I'm currently learning Typescript
+* 🤖 I'm currently learning React + Typescript
 * 💬 Ask me about ... weather ;pp
 * ❤️ I love gym🏋️‍♂️
 * ⚡ Fun fact: I'm just a human :)
