@@ -6,9 +6,6 @@
 ## My Stack💼
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,github,git,js,ts,react)](https://skills.thijs.gg)
 
-## MY STATS🤖
-<img src="https://github-readme-stats.vercel.app/api?username=kubson52&show_icons=true&theme=dark"/>
-
 ## 🎇Contact
 **Discord🏹: Kubson#8569/@kubsonnnnn**
 <br>
