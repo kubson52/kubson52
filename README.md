@@ -1,7 +1,6 @@
 # Hi there 👋
 * 👂 My name is Kuba
-* 🔭 I’m currently working on React + TailwindCSS
-* 🤖 I'm currently learning Typescript & Next.js
+* 🔭 I’m currently working on React + TypeScript
 
 ## My Stack💼
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,github,git,js,ts,react,vite)](https://skills.thijs.gg)
