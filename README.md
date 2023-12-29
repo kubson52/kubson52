@@ -6,8 +6,9 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,html,css,scss,bootstrap,tailwind,github,git,js,ts,react,vite,firebase)](https://skills.thijs.gg)
 
 
+## Goals for 2024🎯
 <details>
-<summary>## Goals for 2024🎯</summary>
+<summary>Show</summary>
 
 1. Learn framework (React)
 2. Learn Next.js
