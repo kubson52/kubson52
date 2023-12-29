@@ -11,10 +11,15 @@
 <summary>Show</summary>
 
 🚧 Learning framework (React)
+<br>
 🚧 Learning TS
+<br>
 ❌ Learn Next.js
+<br>
 ❌ Learn Python
+<br>
 ❌ Learn Node.js
+<br>
 ❌ Start React Native
 
 </details>
