@@ -10,11 +10,12 @@
 <details>
 <summary>Show</summary>
 
-1. Learn framework (React)
-2. Learn Next.js
-3. Learn Python
-4. Learn Node.js
-5. Start React Native
+🚧 Learning framework (React)
+🚧 Learning TS
+❌ Learn Next.js
+❌ Learn Python
+❌ Learn Node.js
+❌ Start React Native
 
 </details>
 
