@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on React + TypeScript
 
 ## My Stack💼
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,scss,bootstrap,tailwind,github,git,js,ts,react,vite,firebase,cpp)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,github,git,js,ts,react,vite,firebase)](https://skills.thijs.gg)
 
 
 ## Goals for 2024🎯
